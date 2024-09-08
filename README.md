@@ -42,4 +42,4 @@
 ## Книга
 
 [`Elixir в действии`](https://lib.samtuit.uz/uploads/files/61ade83383cd47.65957662.pdf)
-![book!](./book.jpeg)
+![book!](book.jpeg)
