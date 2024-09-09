@@ -16,5 +16,5 @@ jobs:
         with: 
           otp-version: '27.0.1'
           elixir-version: '1.17'
-      # - run: mix deps.get
-      # - run: mix credo --strict
+      - run: mix deps.get
+    
