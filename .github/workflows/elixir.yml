@@ -15,6 +15,6 @@ jobs:
       - uses: actions/setup-elixir@v1
         with: 
           otp-version: '27.0.1'
-          elixir-version: '1.17'
+          elixir-version: '1.17.2'
       - run: mix deps.get
     
